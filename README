@@ -1,0 +1,16 @@
+Document classes for typesetting course materials in Latex
+
+exam.cls  <- Longer titled documents
+quiz.cls  <- Briefer titled documents
+
+Examples of using the document classes:
+
+exam_example.tex
+quiz_example1.tex
+quiz_example2.tex
+
+
+quiz1_graph.pdf ( graph used in quiz_example1.tex)
+
+
+
