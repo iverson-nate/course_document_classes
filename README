@@ -12,5 +12,6 @@ quiz_example2.tex
 
 quiz1_graph.pdf ( graph used in quiz_example1.tex)
 
-
+usage:
+copy quiz.cls or exam.cls into your working directory and then you can make quizes and tests line the examples.
 
